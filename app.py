@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px # type: ignore
+import plotly.express as px 
+
 
 # Encabezado
 st.header("Análisis de Datos de Vehículos")
